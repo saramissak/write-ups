@@ -1,12 +1,12 @@
-#Google Source code
-##500 Points
+# Google Source code
+## 500 Points
 Chall Link : `http://web.zh3r0.ml:7777/`
 
 you dont get anything free except the source code. Try to search it and also I never liked to upload my homework in google classroom. Help me hack this website please :)
 
 **Author : careless_finch** 
 
-##Steps
+## Steps
 In the Source-Code of the site we can find a hint
 `<!-- get the 'page' :eyes: -->`
 
@@ -24,5 +24,5 @@ To see what we are dealing with `ls -la` and we see a bunch of weirdly named fol
 
 lets search them with `grep -nr 'zh3r0*'` and voilà the flag
 
-##Flag
+## Flag
 zh3r0{h3y_d1d_y0u_upl04d_php_c0rr3ct1y???_84651320}

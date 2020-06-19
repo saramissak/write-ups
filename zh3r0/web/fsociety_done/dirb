@@ -1,0 +1,116 @@
+-----------------
+DIRB v2.22    
+By The Dark Raver
+-----------------
+
+OUTPUT_FILE: dirb
+START_TIME: Wed Jun 17 13:56:27 2020
+URL_BASE: http://web.zh3r0.ml:8005/
+WORDLIST_FILES: /usr/share/dirb/wordlists/common.txt
+OPTION: NOT forcing an ending '/' on URLs
+SPEED_DELAY: 100 milliseconds
+
+-----------------
+
+GENERATED WORDS: 4612
+
+---- Scanning URL: http://web.zh3r0.ml:8005/ ----
+==> DIRECTORY: http://web.zh3r0.ml:8005/code/
++ http://web.zh3r0.ml:8005/index.php (CODE:200|SIZE:158)
++ http://web.zh3r0.ml:8005/robots.txt (CODE:200|SIZE:48)
+
+---- Entering directory: http://web.zh3r0.ml:8005/code/ ----
+
+(!) FATAL: Too many errors connecting to host
+    (Possible cause: COULDNT CONNECT)
+
+-----------------
+END_TIME: Wed Jun 17 14:26:13 2020
+DOWNLOADED: 6388 - FOUND: 2
+
+-----------------
+DIRB v2.22    
+By The Dark Raver
+-----------------
+
+OUTPUT_FILE: dirb
+START_TIME: Wed Jun 17 14:30:02 2020
+URL_BASE: http://web.zh3r0.ml:8005/code/
+WORDLIST_FILES: /usr/share/dirb/wordlists/common.txt
+OPTION: NOT forcing an ending '/' on URLs
+SPEED_DELAY: 50 milliseconds
+
+-----------------
+
+GENERATED WORDS: 4612
+
+---- Scanning URL: http://web.zh3r0.ml:8005/code/ ----
+
+-----------------
+END_TIME: Wed Jun 17 14:48:00 2020
+DOWNLOADED: 4612 - FOUND: 0
+
+-----------------
+DIRB v2.22    
+By The Dark Raver
+-----------------
+
+OUTPUT_FILE: dirb
+START_TIME: Wed Jun 17 14:51:14 2020
+URL_BASE: http://web.zh3r0.ml:8005/code/
+WORDLIST_FILES: /usr/share/dirb/wordlists/common.txt
+OPTION: NOT forcing an ending '/' on URLs
+EXTENSIONS_LIST: (.php) | (.php) [NUM = 1]
+SPEED_DELAY: 50 milliseconds
+
+-----------------
+
+GENERATED WORDS: 4612
+
+---- Scanning URL: http://web.zh3r0.ml:8005/code/ ----
+
+(!) FATAL: Too many errors connecting to host
+    (Possible cause: COULDNT CONNECT)
+
+-----------------
+END_TIME: Wed Jun 17 14:56:17 2020
+DOWNLOADED: 1298 - FOUND: 0
+
+-----------------
+DIRB v2.22    
+By The Dark Raver
+-----------------
+
+OUTPUT_FILE: dirb
+START_TIME: Wed Jun 17 14:56:24 2020
+URL_BASE: http://web.zh3r0.ml:8005/code/
+WORDLIST_FILES: /usr/share/dirb/wordlists/common.txt
+OPTION: NOT forcing an ending '/' on URLs
+EXTENSIONS_LIST: (.php) | (.php) [NUM = 1]
+SPEED_DELAY: 50 milliseconds
+
+-----------------
+
+GENERATED WORDS: 4612
+
+---- Scanning URL: http://web.zh3r0.ml:8005/code/ ----
+
+-----------------
+DIRB v2.22    
+By The Dark Raver
+-----------------
+
+OUTPUT_FILE: dirb
+START_TIME: Wed Jun 17 14:56:30 2020
+URL_BASE: http://web.zh3r0.ml:8005/code/
+WORDLIST_FILES: /usr/share/dirb/wordlists/common.txt
+OPTION: NOT forcing an ending '/' on URLs
+EXTENSIONS_LIST: (.php) | (.php) [NUM = 1]
+SPEED_DELAY: 25 milliseconds
+
+-----------------
+
+GENERATED WORDS: 4612
+
+---- Scanning URL: http://web.zh3r0.ml:8005/code/ ----
++ http://web.zh3r0.ml:8005/code/flag.php (CODE:200|SIZE:149)

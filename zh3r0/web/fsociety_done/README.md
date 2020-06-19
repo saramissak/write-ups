@@ -1,5 +1,5 @@
-#fsociety
-##500 Points
+# fsociety
+## 500 Points
 
 Chall Link : `http://web.zh3r0.ml:8005/`
 I hate this society.
@@ -40,5 +40,5 @@ Dont seem to find anything useful so lets try to get them what they want.
 
 If we send them the JSFuck keyword `fsocietyislit` hashed as md5 we get the flag!
 
-##Flag
+## Flag
 zh3r0{ell1ot_y0u_4r3_1n}

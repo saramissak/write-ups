@@ -1,12 +1,12 @@
-#C0llide?
+# C0llide?
 
-##250 points - First solved by insertish
+## 250 points - First solved by insertish
 
 Challenge instance ready at `88.198.219.20:42019`.
 
 A target service is asking for two bits of information that have the same "custom hash", but can't be identical. Looks like we're going to have to generate a collision?
 
-##Steps
+## Steps
 
 ```
 const bodyParser = require("body-parser")

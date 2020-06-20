@@ -1,10 +1,10 @@
-#Spentalkux
+# Spentalkux
 
-##300 points - First solved by clubby789
+## 300 points - First solved by clubby789
 
 Spentalkux 🐍📦
 
-##Steps
+## Steps
 Since `Spentalkux` is not a term to me i just googled it and found a **python package** (which would explain the emojis behind the word)
 
 As of the [pypi.org website](https://pypi.org/project/spentalkux/) it dosent seems to be a usable package.
@@ -14,7 +14,7 @@ In the release history there are two versions called `0.9` and `13.37` which is 
 
 Lets download both, gunzip them, tar them and have a look.
 
-###13.37
+### 13.37
 Inside the files we can find a python string which gets executet after encoded..
 
 ```
@@ -70,7 +70,7 @@ The binary encodes to `_herring`... Given the background color is red its a **re
 
 as stated above we need to look into the `past`.
 
-##0.9
+## 0.9
 Lets go again!
 Again its a base64 string
 
@@ -109,5 +109,5 @@ Ea`I"Ap[6t20:Wp0ed`-?SQG?1NI(a@l$>t
 
 Once more decode it with Base85 and we get the flag!
 
-##Flag
+## Flag
 ractf{My5t3r10u5_1nt3rf4c3?}

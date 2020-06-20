@@ -1,12 +1,12 @@
-#Vandalism
+# Vandalism
 
-##250 points - First solved by clubby789
+## 250 points - First solved by clubby789
 
 Challenge instance ready at `88.198.219.20:45041`.
 
 That admin panel was awfully bare. There must be some other page, but we've no idea where it is. Just to clarify, ractf{;)} is the greedy admins stealing all the flags, it's not the actual flag.
 
-##Steps
+## Steps
 Lets look at the source again. Sadly there is nothing really special so move on to the network stuff and look at the headers from the request.
 
 ```
@@ -53,5 +53,5 @@ The term "zalgo" comes from an internet meme/phenomenon which begin with the con
 Lets use [Zalgo remover](https://cable.ayra.ch/zalgo/) and we get some Lorem Ipsum text.
 In the third paragraph we can find the flag
 
-##Flag
+## Flag
 ractf{h1dd3n1npl4n3s1ght}

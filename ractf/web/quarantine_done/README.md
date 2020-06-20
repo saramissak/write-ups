@@ -1,12 +1,12 @@
-#Quarantine
+# Quarantine
 
-##200 points - First solved by clubby789
+## 200 points - First solved by clubby789
 
 Challenge instance ready at `88.198.219.20:30807`.
 
 See if you can get access to an account on the webapp.
 
-##Steps
+## Steps
 
 Open the provided ip and port in a webbrowser and you get a webpage.
 Broken sign-up but you get a sign-in.
@@ -25,5 +25,5 @@ Password: `a' or '1'='1' LIMIT 1--`
 
 **GOTCHA!**
 
-##Flag
+## Flag
 ractf{Y0u_B3tt3r_N0t_h4v3_us3d_sqlm4p}

@@ -1,12 +1,12 @@
-#Getting admin
+# Getting admin
 
-##300 points - First solved by clubby789
+## 300 points - First solved by clubby789
 
 Challenge instance ready at `88.198.219.20:30807`.
 
 See if you can get an admin account.
 
-##Steps
+## Steps
 Since we are logged in from the previous challange lets look at our auth cookie since the login is preserved.
 
 `auth:"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyIjogIkhhcnJ5IiwgInByaXZpbGVnZSI6IDF9.A7OHDo-b3PB5XONTRuTYq6jm2Ab8iaT353oc-VPPNMU"`
@@ -35,5 +35,5 @@ eyJhbGciOiJub25lIiwidHlwIjoiSldUIn0.eyJ1c2VyIjoiYWRtaW4iLCJwcml2aWxlZ2UiOjIsImlh
 
 Now lets change the `auth-cookie` to the new `JWT` and access the `/admin` section.
 
-##Flag
+## Flag
 ractf{j4va5cr1pt_w3b_t0ken}

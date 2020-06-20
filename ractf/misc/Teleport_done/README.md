@@ -1,6 +1,6 @@
-#Teleport
+# Teleport
 
-##300 points - First solved by RGBsec3
+## 300 points - First solved by RGBsec3
 
 Challenge instance ready at 88.198.219.20:54778.
 
@@ -9,7 +9,7 @@ One of our admins plays a strange game which can be accessed over TCP. He's been
 `teleport.py - 831 Bytes`
 
 
-###Steps
+### Steps
 
 connect to ip:
 `nc 88.198.219.20 58829`
@@ -54,5 +54,5 @@ well seems like it works. Sadly `nan != 10000000000000` so lets set the new floa
 
 And it worked!!
 
-##Flag
+## Flag
 ractf{fl0at1ng_p01nt_15_h4rd}

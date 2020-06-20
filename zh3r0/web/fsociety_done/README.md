@@ -8,7 +8,7 @@ I hate this society.
 
 *Automated tools allowed.*
 
-##Steps
+## Steps
 
 ok so looking at the site dosent really show much. There is a gif and nothing else.
 

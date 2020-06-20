@@ -1,12 +1,12 @@
-#Xtremely Memorable Listing
+# Xtremely Memorable Listing
 
-##200 points - First solved by hmmm
+## 200 points - First solved by hmmm
 
 Challenge instance ready at `88.198.219.20:45041`.
 
 We've been asked to test a web application, and we suspect there's a file they used to provide to search engines, but we can't remember what it used to be called. Can you have a look and see what you can find?
 
-##Step
+## Step
 In the description we can find a hint `a file they used to provide to search engines` which leads to `robots.txt`
 
 ```
@@ -85,5 +85,5 @@ D̷͙͎ͅĘ̥̤̝͔͈̻̼̀͠A̫͓̳͕̼͈Ŕ̝ͅ ̶͉̼̘̥̯̰̩͟Ḍ̨̥̦I�
 ̸̸̖̦̺̤̫A͍̩̗̩L̛͈̙L͏̳͖͔̰̀͢ͅ ̯̭̖̣O͎̫̘͙͟͞͞F͈̩̯̪̦̤͝ ̵̥̦̜̰̰͖̤̟͘T̡̠̰͝H̶̪͙ͅE̷̯͕ ̬̬̯̥̟̥̱̲D͏͖̱̺̱̥͔̳̘Á͏̳̮̗̰͇T̩̘͉͕̞̝̦̹̀A̰̪̗̩͜͝B̴͚̲͟A̡̗S̭͇͉͟E͇͉̻͝ ͓̤͈̗A̲̭͙̦̦͕̕R҉͈̝̻̪͖͙̻͙Ę̴͉̠̰͚͕̬̫̱ ̢̤̠̙͉̝̜͢B̧̤̤̬͓̕E̱͈̝͕̠͉̟̞̠L̳̫̩̯̦̣͕̯͞Ó̖̮̖̟̫̣͔N̛͏͖̬̞͚͔G҉̳̣͚̪̘͓̭͕̕ ̛͙͇̳̣͖͇̙͖̼͘T̸̴̝O̧͙̺̮̣̪̘̗͠ ̴͇̯̥̫̬͇͍U̲̻͔̘͓̩͜S̛̼̤̣̫
 ```
 
-##Flag
+## Flag
 ractf{4l13n1nv4s1on?}

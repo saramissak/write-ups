@@ -1,6 +1,6 @@
-#Entrypoint
+# Entrypoint
 
-##200 points - First solved by kaovd
+## 200 points - First solved by kaovd
 
 Challenge instance ready at `88.198.219.20:10322`.
 
@@ -8,7 +8,7 @@ Sadly it looks like there wasn't much to see in the python source. We suspect we
 
 *This challenge does NOT have fake flags. If you found some other flags while solving this challenge, you may have found the solutions to the next challenges first :P*
 
-##Steps
+## Steps
 Ok lets open the given IP in our webbrowser.
 
 First of **view the source**!
@@ -38,5 +38,5 @@ Make sure to log out after using!
 TODO: Setup a new password manager for this
 ```
 
-##Flag
+## Flag
 ractf{developerBackupCode4321}

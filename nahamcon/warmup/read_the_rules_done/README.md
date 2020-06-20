@@ -1,12 +1,12 @@
-#Read The Rules
-##5 Points
+# Read The Rules
+## 5 Points
 
 Please follow the rules for this CTF!
 
 Connect here: `https://ctf.nahamcon.com/rules`
 
-##Steps
+## Steps
 Just look at the sourcecode.
 
-##Flag
+## Flag
 flag{we_hope_you_enjoy_the_game}

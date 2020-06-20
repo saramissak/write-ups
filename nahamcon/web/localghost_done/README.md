@@ -1,5 +1,5 @@
-#Localghost
-##75 Points
+# Localghost
+## 75 Points
 
 BooOooOooOOoo! This spooOoOooky client-side cooOoOode sure is scary! What spoOoOoOoky secrets does he have in stooOoOoOore??
 
@@ -7,7 +7,7 @@ Connect here: `http://jh2i.com:50003`
 
 **Note, this flag is not in the usual format.**
 
-##Steps
+## Steps
 
 Looking at the adress we see a little ghost and nothing special.
 Besides that if we look at the `head` section we can find a `jscoll.js` which dosent provide any function so lets check it out.
@@ -28,5 +28,5 @@ Lets see what the client side js console can tell us about it.
 It returns a array containing a keyword `flag` as well as some strange string.
 Lets put this into `CyberChef` and we can see its base64 encoded.
 
-##Flag
+## Flag
 JCTF{spoooooky_ghosts_in_storage}

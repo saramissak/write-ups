@@ -1,11 +1,11 @@
-#CLIsay
-##20 Points
+# CLIsay
+## 20 Points
 
 cowsay is hiding something from us!
 
 Download the file below.
 
-##Steps
+## Steps
 
 Lets download the file and see what it is with `file clisay`
 ```
@@ -47,5 +47,5 @@ r3Ad_M1nd5}
 
 ```
 
-##Flag
+## Flag
 flag{Y0u_c4n_r3Ad_M1nd5}

@@ -1,6 +1,6 @@
 # Reading Between the Lines
 
-##3 00 points - First solved by david
+## 3 00 points - First solved by david
 
 We found a strange file knocking around, but I've got no idea who wrote it because the indentation's an absolute mess!
 

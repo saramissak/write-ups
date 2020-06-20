@@ -1,12 +1,12 @@
-#Quarantine - Hidden information
+# Quarantine - Hidden information
 
-##150 points - First solved by teknoas
+## 150 points - First solved by teknoas
 
 Challenge instance ready at `88.198.219.20:30807`.
 
 We think there's a file they don't want people to see hidden somewhere! See if you can find it, it's gotta be on their webapp somewhere...
 
-##Steps
+## Steps
 
 Lets get nmap going and see what we get.
 `nmap -sC -sV -p 30807 88.198.219.20`
@@ -28,5 +28,5 @@ Nmap done: 1 IP address (1 host up) scanned in 7.39 seconds
 ```
 Seems there is a hidden dir called `/admin-stash`
 
-##Flag
+## Flag
 ractf{1m_n0t_4_r0b0T}
